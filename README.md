@@ -8,3 +8,6 @@ GıtHub 'ı öğrenirken oluşturduğum ilk depo.
 ## Bu depoda neler var ?
 
 - [İlk programım] (kodlar/merhaba.py)
+
+
+![Sakarya üniversitesi](aaaa.webp)
